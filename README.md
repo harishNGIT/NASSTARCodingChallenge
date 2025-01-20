@@ -183,6 +183,7 @@ pytest tests/
 ## Assumptions
 - Data will always append to the existing file
 - No updates will happen to the existing data 
+- Outliers considered when the power_output outside of 3 standard deviations from the mean.
 
 ---
 ## Contributing
