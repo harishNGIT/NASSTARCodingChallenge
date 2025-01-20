@@ -1,0 +1,63 @@
+2025-01-20 07:52:39,436 - INFO - data_group_1 Data Load And Cleaning starts.
+2025-01-20 07:52:40,094 - INFO - No last load time found. Loading all data for group data_group_1
+2025-01-20 07:52:40,104 - INFO - data_group_1 Data Load And Cleaning Completed.
+2025-01-20 07:52:40,104 - INFO - data_group_1 Compute stats started.
+2025-01-20 07:52:40,189 - INFO - Compute stats Completed.
+2025-01-20 07:52:40,211 - INFO - data_group_1 turbine_data wrirting to database Started
+2025-01-20 07:52:40,720 - INFO - data_group_1 turbine_data wrirting to database completed
+2025-01-20 07:52:40,720 - INFO - data_group_1 turbine_statastics wrirting to database Started
+2025-01-20 07:52:40,777 - INFO - data_group_1 turbine_statastics wrirting to database completed
+2025-01-20 07:52:40,790 - INFO - data_group_2 Data Load And Cleaning starts.
+2025-01-20 07:52:40,804 - INFO - No last load time found. Loading all data for group data_group_2
+2025-01-20 07:52:40,804 - INFO - data_group_2 Data Load And Cleaning Completed.
+2025-01-20 07:52:40,804 - INFO - data_group_2 Compute stats started.
+2025-01-20 07:52:40,811 - INFO - Compute stats Completed.
+2025-01-20 07:52:40,823 - INFO - data_group_2 turbine_data wrirting to database Started
+2025-01-20 07:52:40,987 - INFO - data_group_2 turbine_data wrirting to database completed
+2025-01-20 07:52:40,987 - INFO - data_group_2 turbine_statastics wrirting to database Started
+2025-01-20 07:52:40,998 - INFO - data_group_2 turbine_statastics wrirting to database completed
+2025-01-20 07:52:46,632 - INFO - data_group_3 Data Load And Cleaning starts.
+2025-01-20 07:52:46,650 - INFO - No last load time found. Loading all data for group data_group_3
+2025-01-20 07:52:46,650 - INFO - data_group_3 Data Load And Cleaning Completed.
+2025-01-20 07:52:46,650 - INFO - data_group_3 Compute stats started.
+2025-01-20 07:52:46,667 - INFO - Compute stats Completed.
+2025-01-20 07:52:46,674 - INFO - data_group_3 turbine_data wrirting to database Started
+2025-01-20 07:52:47,223 - INFO - data_group_3 turbine_data wrirting to database completed
+2025-01-20 07:52:47,223 - INFO - data_group_3 turbine_statastics wrirting to database Started
+2025-01-20 07:52:47,277 - INFO - data_group_3 turbine_statastics wrirting to database completed
+2025-01-20 07:53:26,601 - INFO - data_group_1 Data Load And Cleaning starts.
+2025-01-20 07:53:26,913 - INFO - Loaded 0 new records after 2022-03-31 23:00:00 for group data_group_1
+2025-01-20 07:53:26,917 - INFO - No New data for data_group_1
+2025-01-20 07:53:26,919 - INFO - data_group_2 Data Load And Cleaning starts.
+2025-01-20 07:53:26,935 - INFO - Loaded 0 new records after 2022-03-31 23:00:00 for group data_group_2
+2025-01-20 07:53:26,938 - INFO - No New data for data_group_2
+2025-01-20 07:53:33,962 - INFO - data_group_3 Data Load And Cleaning starts.
+2025-01-20 07:53:33,984 - INFO - Loaded 0 new records after 2022-03-31 23:00:00 for group data_group_3
+2025-01-20 07:53:33,987 - INFO - No New data for data_group_3
+2025-01-20 08:01:04,631 - INFO - data_group_1 Data Load And Cleaning starts.
+2025-01-20 08:01:06,775 - INFO - No last load time found. Loading all data for group data_group_1
+2025-01-20 08:01:06,783 - INFO - data_group_1 Data Load And Cleaning Completed.
+2025-01-20 08:01:06,785 - INFO - data_group_1 Compute stats started.
+2025-01-20 08:01:06,818 - INFO - Compute stats Completed.
+2025-01-20 08:01:06,823 - INFO - data_group_1 turbine_data wrirting to database Started
+2025-01-20 08:01:07,975 - INFO - data_group_1 turbine_data wrirting to database completed
+2025-01-20 08:01:07,975 - INFO - data_group_1 turbine_statastics wrirting to database Started
+2025-01-20 08:01:08,123 - INFO - data_group_1 turbine_statastics wrirting to database completed
+2025-01-20 08:01:08,182 - INFO - data_group_2 Data Load And Cleaning starts.
+2025-01-20 08:01:08,197 - INFO - No last load time found. Loading all data for group data_group_2
+2025-01-20 08:01:08,207 - INFO - data_group_2 Data Load And Cleaning Completed.
+2025-01-20 08:01:08,208 - INFO - data_group_2 Compute stats started.
+2025-01-20 08:01:08,213 - INFO - Compute stats Completed.
+2025-01-20 08:01:08,223 - INFO - data_group_2 turbine_data wrirting to database Started
+2025-01-20 08:01:09,475 - INFO - data_group_2 turbine_data wrirting to database completed
+2025-01-20 08:01:09,475 - INFO - data_group_2 turbine_statastics wrirting to database Started
+2025-01-20 08:01:09,698 - INFO - data_group_2 turbine_statastics wrirting to database completed
+2025-01-20 08:01:11,890 - INFO - data_group_3 Data Load And Cleaning starts.
+2025-01-20 08:01:11,907 - INFO - No last load time found. Loading all data for group data_group_3
+2025-01-20 08:01:11,914 - INFO - data_group_3 Data Load And Cleaning Completed.
+2025-01-20 08:01:11,915 - INFO - data_group_3 Compute stats started.
+2025-01-20 08:01:11,927 - INFO - Compute stats Completed.
+2025-01-20 08:01:11,932 - INFO - data_group_3 turbine_data wrirting to database Started
+2025-01-20 08:01:13,288 - INFO - data_group_3 turbine_data wrirting to database completed
+2025-01-20 08:01:13,288 - INFO - data_group_3 turbine_statastics wrirting to database Started
+2025-01-20 08:01:13,426 - INFO - data_group_3 turbine_statastics wrirting to database completed
