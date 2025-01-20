@@ -15,7 +15,7 @@ def main():
   
 
     # logging.info("Data processing starts.")
-    # URL encode the connection string
+    # Mapping dictionary to hold which group containes which turbine Ids
     turbineMappingDic={"data_group_1":[1,2,3,4,5],"data_group_2":[6,7,8,9,10],"data_group_3":[11,12,13,14,15]}
     data_Dir="./raw"
     # last_load_time = get_last_load_time() 

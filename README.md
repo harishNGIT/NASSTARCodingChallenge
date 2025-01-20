@@ -179,6 +179,12 @@ pytest tests/
 
 ---
 
+---
+## Assumptions
+- Data will always append to the existing file
+- No updates will happen to the existing data 
+
+---
 ## Contributing
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature-name`).
